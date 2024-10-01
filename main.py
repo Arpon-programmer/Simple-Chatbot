@@ -39,7 +39,7 @@ def find_best_match(user_question: str, questions: list[str]) -> str | None:
     """Find the best matching question using fuzzy matching."""
     user_question = preprocess_text(user_question)
     # Increase cutoff for better accuracy
-    matches: list = get_close_matches(user_question, [preprocess_text(q) for q in questions], n=3, cutoff=0)
+    matches: list = get_close_matches(user_question, [preprocess_text(q) for q in questions], n=3, cutoff=0.5)
     return matches[0] if matches else None
 
 
