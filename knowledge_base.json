@@ -2,47 +2,1039 @@
   "questions": [
     {
       "question": "hi",
-      "answer": "Hello!"
+      "answer": "Hello! How can I assist you today?"
     },
     {
       "question": "hello",
-      "answer": "Hi!"
+      "answer": "Hi! How's it going?"
     },
     {
       "question": "How are you?",
-      "answer": "I am very well."
+      "answer": "I’m doing great, thanks for asking! How about you?"
     },
     {
       "question": "Who are you?",
-      "answer": "I am an AI Chatbot."
+      "answer": "I am an AI Chatbot, created to assist you with a variety of topics."
     },
     {
       "question": "",
-      "answer": "How can I help you?"
+      "answer": "How can I help you today? Feel free to ask me anything!"
     },
     {
-      "question": "Who is Arpon",
-      "answer": "Arpon Biswas is my creator."
+      "question": "Who is Arpon?",
+      "answer": "Arpon Biswas is an AI developer, entrepreneur, and my creator."
     },
     {
       "question": "...",
-      "answer": "..."
+      "answer": "I'm here if you need anything!"
     },
     {
       "question": ".",
-      "answer": "."
+      "answer": "Please let me know how I can assist you."
     },
     {
       "question": "hi there",
-      "answer": "hi"
+      "answer": "Hi! What’s on your mind today?"
     },
     {
       "question": "Do you know who I am?",
-      "answer": "You are my BOSS>>>"
+      "answer": "You are my BOSS and the one I’m here to help!"
     },
     {
-      "question": "who i am",
-      "answer": "dyou now who i am"
+      "question": "Who created you?",
+      "answer": "I was created by Arpon Biswas, an expert in AI and technology."
+    },
+    {
+      "question": "Who is the richest person in the world?",
+      "answer": "As of 2024, the richest person in the world is Elon Musk, CEO of Tesla, SpaceX, and various other companies."
+    },
+    {
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines, enabling them to perform tasks like decision-making, learning, and problem-solving."
+    },
+    {
+      "question": "What is space exploration?",
+      "answer": "Space exploration is the investigation of outer space through the use of astronomy, satellites, space probes, and manned space missions. Notable organizations involved are NASA, SpaceX, and ESA."
+    },
+    {
+      "question": "Who was the first person on the moon?",
+      "answer": "Neil Armstrong was the first person to set foot on the moon on July 20, 1969, during NASA's Apollo 11 mission."
+    },
+    {
+      "question": "Who is the CEO of Tesla?",
+      "answer": "The CEO of Tesla is Elon Musk, a visionary entrepreneur also involved in SpaceX, Neuralink, and The Boring Company."
+    },
+    {
+      "question": "What is cryptocurrency?",
+      "answer": "Cryptocurrency is a form of digital or virtual currency that uses cryptography for security. Bitcoin and Ethereum are examples of cryptocurrencies."
+    },
+    {
+      "question": "What is Bitcoin?",
+      "answer": "Bitcoin is the first and most popular cryptocurrency, created by an anonymous person or group known as Satoshi Nakamoto in 2009."
+    },
+    {
+      "question": "Who is the president of the United States?",
+      "answer": "As of 2024, the President of the United States is Joe Biden."
+    },
+    {
+      "question": "What is quantum computing?",
+      "answer": "Quantum computing is a type of computing that uses quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data. It has the potential to revolutionize various fields, including cryptography and AI."
+    },
+    {
+      "question": "What is NASA?",
+      "answer": "NASA, or the National Aeronautics and Space Administration, is the U.S. government agency responsible for space exploration and research."
+    },
+    {
+      "question": "Who is Jeff Bezos?",
+      "answer": "Jeff Bezos is the founder and former CEO of Amazon, one of the world’s largest e-commerce platforms. He is also the founder of Blue Origin, a space exploration company."
+    },
+    {
+      "question": "Who is Bill Gates?",
+      "answer": "Bill Gates is the co-founder of Microsoft, a philanthropist, and one of the wealthiest individuals in the world."
+    },
+    {
+      "question": "What is SpaceX?",
+      "answer": "SpaceX is a private aerospace manufacturer and space transportation company founded by Elon Musk. It aims to reduce space transportation costs and enable the colonization of Mars."
+    },
+    {
+      "question": "What is Google?",
+      "answer": "Google is a multinational technology company specializing in Internet-related services and products, including online advertising, search engines, cloud computing, and more."
+    },
+    {
+      "question": "Who is Sundar Pichai?",
+      "answer": "Sundar Pichai is the CEO of Google and Alphabet, leading the development of the company’s various technologies and services."
+    },
+    {
+      "question": "What is Facebook?",
+      "answer": "Facebook, now known as Meta, is a social media platform founded by Mark Zuckerberg. It’s one of the most widely used social networking services in the world."
+    },
+    {
+      "question": "Who is Mark Zuckerberg?",
+      "answer": "Mark Zuckerberg is the founder and CEO of Meta Platforms (formerly Facebook), which includes Instagram, WhatsApp, and Oculus VR."
+    },
+    {
+      "question": "What is the United Nations?",
+      "answer": "The United Nations (UN) is an international organization founded in 1945, dedicated to maintaining international peace, security, and fostering cooperation among countries."
+    },
+    {
+      "question": "What is the European Union?",
+      "answer": "The European Union (EU) is a political and economic union of 27 member states located primarily in Europe, promoting integration, economic cooperation, and policy coordination."
+    },
+    {
+      "question": "Who is Xi Jinping?",
+      "answer": "Xi Jinping is the President of China and the General Secretary of the Communist Party of China, serving as the country's paramount leader since 2012."
+    },
+    {
+      "question": "Who is the Prime Minister of India?",
+      "answer": "The Prime Minister of India as of 2024 is Narendra Modi."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change refers to long-term changes in the Earth's climate, primarily due to human activities such as fossil fuel burning, leading to global warming and environmental changes."
+    },
+    {
+      "question": "Who is the CEO of Microsoft?",
+      "answer": "The CEO of Microsoft is Satya Nadella, who has been in the role since 2014."
+    },
+    {
+      "question": "Who is the CEO of Apple?",
+      "answer": "The CEO of Apple as of 2024 is Tim Cook, succeeding Steve Jobs in 2011."
+    },
+    {
+      "question": "What is the IMF?",
+      "answer": "The International Monetary Fund (IMF) is an international organization that works to stabilize the global economy through financial assistance, policy advice, and capacity development."
+    },
+    {
+      "question": "What is the World Bank?",
+      "answer": "The World Bank is an international financial institution that provides loans and grants to countries for development projects aimed at reducing poverty."
+    },
+    {
+      "question": "What is inflation?",
+      "answer": "Inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power."
+    },
+    {
+      "question": "What is blockchain?",
+      "answer": "Blockchain is a decentralized, distributed ledger technology that records transactions across many computers so that the record cannot be altered retroactively."
+    },
+    {
+      "question": "What is the stock market?",
+      "answer": "The stock market is a collection of markets where stocks (shares of ownership in businesses) are bought and sold, offering companies a way to raise capital and investors a way to own parts of companies."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI that enables computers to learn from data and make predictions or decisions without being explicitly programmed for each task."
+    },
+    {
+      "question": "What is deep learning?",
+      "answer": "Deep learning is a type of machine learning that uses neural networks with many layers to model complex patterns in data."
+    },
+    {
+      "question": "What is neural network?",
+      "answer": "A neural network is a series of algorithms that attempt to recognize relationships in data through a process that mimics the way the human brain works."
+    },
+    {
+      "question": "What is a GPU?",
+      "answer": "A GPU (Graphics Processing Unit) is a specialized processor designed to accelerate graphics rendering, but it's also widely used for machine learning and AI computations due to its parallel processing capabilities."
+    },
+    {
+      "question": "What is reinforcement learning?",
+      "answer": "Reinforcement learning is a type of machine learning where an agent learns to make decisions by receiving rewards or penalties for its actions in an environment."
+    },
+    {
+      "question": "What is natural language processing?",
+      "answer": "Natural Language Processing (NLP) is a field of AI that focuses on the interaction between computers and human language, enabling machines to understand, interpret, and respond to text or speech."
+    },
+    {
+      "question": "What is a chatbot?",
+      "answer": "A chatbot is an AI-powered software application designed to simulate human conversation and interact with users via text or voice."
+    },
+    {
+      "question": "What is TensorFlow?",
+      "answer": "TensorFlow is an open-source machine learning framework developed by Google, widely used for building and deploying deep learning models."
+    },
+    {
+      "question": "What is PyTorch?",
+      "answer": "PyTorch is an open-source machine learning library developed by Facebook's AI Research lab, known for its flexibility and ease of use, particularly for deep learning applications."
+    },
+    {
+      "question": "What is computer vision?",
+      "answer": "Computer vision is a field of AI that trains computers to interpret and make decisions based on visual data from the world, such as images and videos."
+    },
+    {
+      "question": "What is a convolutional neural network (CNN)?",
+      "answer": "A Convolutional Neural Network (CNN) is a type of deep learning neural network designed for processing structured grid-like data, such as images, and is commonly used for tasks like image recognition and classification."
+    },
+    {
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a step-by-step procedure or formula for solving a problem or performing a task, often used in computer science and mathematics."
+    },
+    {
+      "question": "What is augmented reality?",
+      "answer": "Augmented Reality (AR) is a technology that overlays digital content, like images or information, onto the real world, often using a camera or a smartphone."
+    },
+    {
+      "question": "What is virtual reality?",
+      "answer": "Virtual Reality (VR) is an immersive technology that simulates a fully digital environment, allowing users to interact with and explore virtual worlds."
+    },
+    {
+      "question": "What is the difference between AR and VR?",
+      "answer": "The key difference is that AR overlays digital content onto the real world, while VR creates a fully immersive, completely virtual environment."
+    },
+    {
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "The Internet of Things (IoT) refers to the network of physical objects—devices, vehicles, buildings—that are embedded with sensors, software, and other technologies to connect and exchange data over the internet."
+    },
+    {
+      "question": "What is big data?",
+      "answer": "Big Data refers to the massive volume of structured and unstructured data that is too large or complex to be processed by traditional data processing tools."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing refers to the delivery of computing services—like servers, storage, databases, networking, software—over the internet, allowing for flexible, scalable, and cost-effective IT solutions."
+    },
+    {
+      "question": "What is edge computing?",
+      "answer": "Edge computing is the practice of processing data closer to the source of the data, rather than in a centralized cloud environment, to reduce latency and bandwidth usage."
+    },
+    {
+      "question": "What is a quantum bit (qubit)?",
+      "answer": "A qubit is the basic unit of quantum information, analogous to a bit in classical computing, but capable of representing both 0 and 1 simultaneously through quantum superposition."
+    },
+    {
+      "question": "What is blockchain used for?",
+      "answer": "Blockchain is used in various industries for secure transactions, record-keeping, and decentralized applications, with notable uses in cryptocurrency, supply chain management, and digital identity verification."
+    },
+    {
+      "question": "What is the metaverse?",
+      "answer": "The metaverse is a collective virtual shared space, created by the convergence of virtually enhanced physical reality and physically persistent virtual spaces, often accessed through augmented reality (AR) or virtual reality (VR)."
+    },
+    {
+      "question": "What is cybersecurity?",
+      "answer": "Cybersecurity refers to the practice of protecting systems, networks, and data from digital attacks, unauthorized access, or damage."
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, learn, and solve problems."
+    },
+    {
+      "question": "What is the history of AI?",
+      "answer": "The history of AI dates back to the 1950s, with pioneers like Alan Turing and John McCarthy laying the groundwork for the field. AI has evolved from simple rule-based systems to complex machine learning models."
+    },
+    {
+      "question": "Who is Alan Turing?",
+      "answer": "Alan Turing was a British mathematician and logician, considered one of the fathers of computer science. He is famous for his work on breaking the Enigma code during WWII and proposing the Turing Test for AI."
+    },
+    {
+      "question": "What is the Turing Test?",
+      "answer": "The Turing Test, proposed by Alan Turing in 1950, is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from that of a human."
+    },
+    {
+      "question": "Who was Nikola Tesla?",
+      "answer": "Nikola Tesla was a Serbian-American inventor and engineer known for his contributions to the development of alternating current (AC) electricity, wireless communication, and early radio technology."
+    },
+    {
+      "question": "Who is Elon Musk?",
+      "answer": "Elon Musk is an entrepreneur, inventor, and CEO of Tesla, SpaceX, and other companies. He is known for advancing electric vehicles, space exploration, and the development of artificial intelligence."
+    },
+    {
+      "question": "What is SpaceX?",
+      "answer": "SpaceX is a private aerospace manufacturer and space transportation company founded by Elon Musk in 2002, with the goal of reducing space travel costs and eventually colonizing Mars."
+    },
+    {
+      "question": "What is Blue Origin?",
+      "answer": "Blue Origin is a private space company founded by Jeff Bezos, aiming to enable private space travel and eventually build infrastructure to support human life in space."
+    },
+    {
+      "question": "Who is Steve Jobs?",
+      "answer": "Steve Jobs was the co-founder of Apple Inc. and a visionary in the field of personal computing, mobile technology, and digital music, known for his role in creating the iPhone, iPod, and Macintosh."
+    },
+    {
+      "question": "Who is Thomas Edison?",
+      "answer": "Thomas Edison was an American inventor and businessman who developed many devices, including the phonograph, the motion picture camera, and the electric light bulb."
+    },
+    {
+      "question": "What is the Industrial Revolution?",
+      "answer": "The Industrial Revolution was a period of major industrialization and technological innovation during the 18th and 19th centuries, which led to the widespread use of machinery and mass production."
+    },
+    {
+      "question": "What is the Internet?",
+      "answer": "The Internet is a global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide."
+    },
+    {
+      "question": "Who invented the World Wide Web?",
+      "answer": "The World Wide Web was invented by Tim Berners-Lee in 1989 while he was working at CERN, enabling the internet to become a space for sharing documents and media."
+    },
+    {
+      "question": "What is the Cold War?",
+      "answer": "The Cold War was a period of geopolitical tension between the United States and the Soviet Union, lasting from the end of World War II until the collapse of the Soviet Union in 1991."
+    },
+    {
+      "question": "What is a quantum computer?",
+      "answer": "A quantum computer uses quantum mechanics to perform calculations at speeds much faster than traditional computers for certain tasks, using qubits instead of classical bits."
+    },
+    {
+      "question": "What is the Theory of Relativity?",
+      "answer": "Albert Einstein's Theory of Relativity consists of two theories: Special Relativity and General Relativity. It transformed our understanding of time, space, and gravity."
+    },
+    {
+      "question": "What is the Milky Way?",
+      "answer": "The Milky Way is the galaxy that contains our Solar System. It is a barred spiral galaxy with hundreds of billions of stars."
+    },
+    {
+      "question": "What is the Hubble Space Telescope?",
+      "answer": "The Hubble Space Telescope is a large, space-based observatory launched by NASA in 1990 that has provided some of the most detailed images of distant galaxies, stars, and planets."
+    },
+    {
+      "question": "What is the International Space Station (ISS)?",
+      "answer": "The International Space Station (ISS) is a space station, or a habitable artificial satellite, that orbits Earth and is used for scientific research and international collaboration in space exploration."
+    },
+    {
+      "question": "What is the speed of sound?",
+      "answer": "The speed of sound is approximately 343 meters per second (1,235 kilometers/hour or 767 miles/hour) in dry air at 20°C (68°F)."
+    },
+    {
+      "question": "What is Moore's Law?",
+      "answer": "Moore's Law is the observation that the number of transistors in a dense integrated circuit doubles about every two years, leading to exponential growth in computing power."
+    },
+    {
+      "question": "Who is Warren Buffett?",
+      "answer": "Warren Buffett is one of the world’s most successful investors and the chairman and CEO of Berkshire Hathaway. He is known for his value investing strategy."
+    },
+    {
+      "question": "What is a startup?",
+      "answer": "A startup is a young company founded to develop a unique product or service, bring it to market, and scale it rapidly, often in the technology sector."
+    },
+    {
+      "question": "Who is Malala Yousafzai?",
+      "answer": "Malala Yousafzai is a Pakistani education activist and the youngest-ever Nobel Prize laureate. She advocates for the education of girls around the world."
+    },
+    {
+      "question": "What is the World Health Organization (WHO)?",
+      "answer": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health."
+    },
+    {
+      "question": "What is the G20?",
+      "answer": "The G20 is an international forum for governments and central bank governors from 19 countries and the European Union, aiming to discuss and promote global economic stability."
+    },
+    {
+      "question": "Who is Nelson Mandela?",
+      "answer": "Nelson Mandela was a South African anti-apartheid revolutionary who served as President of South Africa from 1994 to 1999. He was a global symbol of peace and reconciliation."
+    },
+    {
+      "question": "What is the Great Depression?",
+      "answer": "The Great Depression was a severe worldwide economic depression that took place during the 1930s, beginning in the United States after the stock market crash of 1929."
+    },
+    {
+      "question": "What is the World Economic Forum?",
+      "answer": "The World Economic Forum is an international organization for public-private cooperation, where leaders from business, government, and academia meet to discuss global economic issues."
+    },
+    {
+      "question": "What is renewable energy?",
+      "answer": "Renewable energy is energy that comes from natural resources that are replenished on a human timescale, such as sunlight, wind, and geothermal heat."
+    },
+    {
+      "question": "What is climate change?",
+      "answer": "Climate change refers to long-term shifts in temperatures and weather patterns, primarily due to human activities like burning fossil fuels, which release greenhouse gases into the atmosphere."
+    },
+    {
+      "question": "What is the Paris Agreement?",
+      "answer": "The Paris Agreement is a global treaty adopted in 2015 by nearly all nations to address climate change by limiting global warming to below 2°C compared to pre-industrial levels."
+    },
+    {
+      "question": "What is cybersecurity?",
+      "answer": "Cybersecurity refers to the protection of computer systems and networks from information disclosure, theft, damage, and disruption by malicious actors."
+    },
+    {
+      "question": "Who is Greta Thunberg?",
+      "answer": "Greta Thunberg is a Swedish environmental activist known for her efforts to raise awareness of climate change, inspiring global movements like Fridays for Future."
+    },
+    {
+      "question": "What is the Kyoto Protocol?",
+      "answer": "The Kyoto Protocol is an international treaty that commits its signatories to reduce greenhouse gas emissions, based on the consensus that global warming is occurring and human-made CO2 emissions are driving it."
+    },
+    {
+      "question": "Who is the first female Prime Minister of the UK?",
+      "answer": "Margaret Thatcher was the first female Prime Minister of the United Kingdom, serving from 1979 to 1990, and was known for her conservative policies."
+    },
+    {
+      "question": "What is the Nobel Prize?",
+      "answer": "The Nobel Prize is a set of prestigious international awards given annually in several categories such as Peace, Literature, Medicine, Physics, and Chemistry, established by the will of Alfred Nobel."
+    },
+    {
+      "question": "What is Christianity?",
+      "answer": "Christianity is the world's largest religion, with about 2.3 billion followers. It is based on the life and teachings of Jesus Christ, who is considered the Son of God and the Savior of humanity. The sacred text of Christianity is the Bible, and it is practiced in churches. Major sects include Catholicism, Protestantism, and Eastern Orthodoxy."
+    },
+    {
+      "question": "What is Islam?",
+      "answer": "Islam is a monotheistic religion with approximately 1.9 billion followers worldwide. It is based on the belief in one God (Allah) and the teachings of the Prophet Muhammad as conveyed in the Quran, the holy book of Islam. The religion has two major sects, Sunni and Shia, and adherents worship in mosques. The Five Pillars of Islam are essential practices, including prayer and fasting during Ramadan."
+    },
+    {
+      "question": "What is Hinduism?",
+      "answer": "Hinduism is the world's third-largest religion, with over 1.2 billion followers, mainly in India and Nepal. It is a polytheistic religion that believes in a Supreme Being known as Brahman, who manifests in various gods and goddesses such as Vishnu, Shiva, and Lakshmi. Hinduism is known for its rituals, festivals like Diwali, and sacred texts such as the Vedas and Bhagavad Gita."
+    },
+    {
+      "question": "What is Buddhism?",
+      "answer": "Buddhism is a non-theistic religion with about 500 million followers. It was founded by Siddhartha Gautama (Buddha) in the 5th century BCE in India. Buddhism focuses on the path to enlightenment through practices such as meditation, ethical conduct, and mindfulness. Key texts include the Tripitaka and the Mahayana Sutras. Major branches include Theravada, Mahayana, and Vajrayana."
+    },
+    {
+      "question": "What is Judaism?",
+      "answer": "Judaism is one of the oldest monotheistic religions, with around 14 million followers worldwide. It is based on the covenant between God and the Jewish people, as described in the Torah, which is the central religious text. Jews worship in synagogues and observe various traditions, including the Sabbath and holidays like Passover and Yom Kippur."
+    },
+    {
+      "question": "What is Sikhism?",
+      "answer": "Sikhism is a monotheistic religion founded in the 15th century by Guru Nanak in the Punjab region of India. It has around 30 million followers. Sikhism teaches belief in one God and the equality of all people. The primary scripture is the Guru Granth Sahib, and Sikhs worship in places called Gurdwaras. Key tenets include honest living, service to humanity, and remembering God at all times."
+    },
+    {
+      "question": "What is Taoism?",
+      "answer": "Taoism is a Chinese philosophical and spiritual tradition that emphasizes living in harmony with the Tao, a fundamental principle that is the source of everything in the universe. Taoism has around 12 million adherents and is based on texts such as the Tao Te Ching, attributed to Laozi. It focuses on simplicity, naturalness, and balance."
+    },
+    {
+      "question": "What is Shinto?",
+      "answer": "Shinto is the indigenous religion of Japan, with approximately 4 million adherents. It is based on the belief in kami, which are spirits or gods that inhabit natural objects, places, and people. Shinto rituals and festivals, like Matsuri, are an important aspect of Japanese culture, and sacred sites include shrines. Shintoism emphasizes the worship of nature and ancestors."
+    },
+    {
+      "question": "What is Jainism?",
+      "answer": "Jainism is an ancient Indian religion with around 4.5 million followers. It teaches non-violence (ahimsa), truth, and asceticism. Jains believe in the liberation of the soul through self-discipline and ethical living. Key texts include the Agamas, and Jains worship in temples. Jain monks and nuns practice strict non-violence and renunciation."
+    },
+    {
+      "question": "What is Zoroastrianism?",
+      "answer": "Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zoroaster in ancient Persia. It has about 100,000 followers today. The religion is centered around the worship of Ahura Mazda, the supreme god, and the concept of good versus evil. The Avesta is the sacred text of Zoroastrianism, and fire temples are places of worship."
+    },
+    {
+      "question": "What is Confucianism?",
+      "answer": "Confucianism is a philosophical and ethical system based on the teachings of Confucius, which originated in China. It emphasizes morality, proper social relationships, respect for authority, and the importance of family. Although not typically classified as a religion, Confucianism has influenced East Asian culture and politics for centuries."
+    },
+    {
+      "question": "What is the most spoken language in the world?",
+      "answer": "The most spoken language in the world is English, with over 1.5 billion speakers, including both native and non-native speakers. It is widely used in international business, science, technology, and diplomacy."
+    },
+    {
+      "question": "What is the second most spoken language in the world?",
+      "answer": "Mandarin Chinese is the second most spoken language in the world, with approximately 1.1 billion native speakers. It is the official language of China and Taiwan and one of the six official languages of the United Nations."
+    },
+    {
+      "question": "What is Hindi?",
+      "answer": "Hindi is the official language of India, spoken by over 600 million people. It is part of the Indo-Aryan branch of the Indo-European language family and is written in the Devanagari script."
+    },
+    {
+      "question": "What is Spanish?",
+      "answer": "Spanish is a Romance language spoken by over 560 million people worldwide. It is the official language in 20 countries, including Spain and most of Latin America, and is widely spoken in the United States."
+    },
+    {
+      "question": "What is French?",
+      "answer": "French is a Romance language spoken by around 275 million people. It is an official language in 29 countries and is one of the six official languages of the United Nations. French is often called the language of diplomacy."
+    },
+    {
+      "question": "What is Arabic?",
+      "answer": "Arabic is a Semitic language spoken by over 420 million people across the Arab world. It is the liturgical language of Islam and has many dialects. Modern Standard Arabic is used in formal communication."
+    },
+    {
+      "question": "What is Bengali?",
+      "answer": "Bengali is an Indo-Aryan language spoken by around 230 million people, primarily in Bangladesh and the Indian state of West Bengal. It is the seventh most spoken language in the world."
+    },
+    {
+      "question": "What is Portuguese?",
+      "answer": "Portuguese is a Romance language spoken by over 250 million people, mainly in Portugal, Brazil, and several African countries. It is the official language of nine countries, making it a global language."
+    },
+    {
+      "question": "What is Russian?",
+      "answer": "Russian is an East Slavic language spoken by around 258 million people. It is the most widely spoken language in Europe and is an official language of Russia, Belarus, Kazakhstan, Kyrgyzstan, and the United Nations."
+    },
+    {
+      "question": "What is Japanese?",
+      "answer": "Japanese is the official language of Japan, spoken by around 125 million people. It uses three writing systems: Kanji, Hiragana, and Katakana, and is known for its complex honorific system."
+    },
+    {
+      "question": "What is Punjabi?",
+      "answer": "Punjabi is an Indo-Aryan language spoken by over 125 million people, mainly in the Punjab region of India and Pakistan. It is one of the most spoken languages in both countries."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and more. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming."
+    },
+    {
+      "question": "What is Java?",
+      "answer": "Java is a high-level, object-oriented programming language designed to have as few implementation dependencies as possible. It is widely used for building enterprise-scale applications, Android apps, and web-based applications. Java's 'write once, run anywhere' philosophy makes it a versatile language."
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a dynamic, high-level, interpreted programming language that is essential for web development. It allows developers to create interactive websites and is used alongside HTML and CSS. JavaScript can also be used for server-side programming using environments like Node.js."
+    },
+    {
+      "question": "What is C++?",
+      "answer": "C++ is a powerful, high-performance programming language that supports both object-oriented and procedural programming paradigms. It is widely used in systems programming, game development, and applications where performance is critical, such as embedded systems and real-time simulations."
+    },
+    {
+      "question": "What is C?",
+      "answer": "C is a general-purpose programming language that has been widely used since its creation in the 1970s. It is known for its performance and efficiency, and it serves as the foundation for many other programming languages like C++, C#, and Objective-C. C is used in systems programming, operating systems, and embedded software."
+    },
+    {
+      "question": "What is C#?",
+      "answer": "C# (C-Sharp) is a modern, object-oriented programming language developed by Microsoft. It is used primarily for building applications on the .NET framework, including desktop applications, web applications, and games using the Unity game engine. It is known for its simplicity and power."
+    },
+    {
+      "question": "What is PHP?",
+      "answer": "PHP is a server-side scripting language designed primarily for web development but also used as a general-purpose programming language. It is widely used for creating dynamic web pages and is known for its ease of use with databases like MySQL."
+    },
+    {
+      "question": "What is Ruby?",
+      "answer": "Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity. It is best known for being the language behind the Ruby on Rails web framework, which makes building web applications faster and easier."
+    },
+    {
+      "question": "What is Swift?",
+      "answer": "Swift is a powerful, open-source programming language developed by Apple. It is used to build applications for iOS, macOS, watchOS, and tvOS. Swift is designed to be safe, fast, and expressive, making it an excellent choice for developers building apps for the Apple ecosystem."
+    },
+    {
+      "question": "What is Go?",
+      "answer": "Go, also known as Golang, is a statically typed, compiled programming language developed by Google. It is known for its simplicity, concurrency support, and performance. Go is often used in cloud services, microservices, and distributed systems."
+    },
+    {
+      "question": "What is Kotlin?",
+      "answer": "Kotlin is a statically typed programming language that runs on the Java Virtual Machine (JVM) and can be used alongside Java. It is widely used for Android app development, offering a more concise and safer alternative to Java."
+    },
+    {
+      "question": "What is R?",
+      "answer": "R is a programming language and environment commonly used for statistical computing and graphics. It is popular in the fields of data science, machine learning, and bioinformatics due to its powerful data analysis capabilities and extensive libraries."
+    },
+    {
+      "question": "What is MATLAB?",
+      "answer": "MATLAB is a high-level programming language and environment used for numerical computing, data analysis, and algorithm development. It is widely used in academia, engineering, and scientific research for tasks such as signal processing, image processing, and control systems."
+    },
+    {
+      "question": "What is SQL?",
+      "answer": "SQL (Structured Query Language) is a standard language for managing and manipulating relational databases. It is used to query, insert, update, and delete data in databases such as MySQL, PostgreSQL, and SQL Server."
+    },
+    {
+      "question": "What is Rust?",
+      "answer": "Rust is a systems programming language focused on safety, speed, and concurrency. It is known for its memory safety features, which prevent common bugs like null pointer dereferencing and buffer overflows. Rust is often used for building performance-critical applications."
+    },
+    {
+      "question": "What is TypeScript?",
+      "answer": "TypeScript is a superset of JavaScript that adds static typing to the language. It is designed for developing large-scale applications and helps catch errors during development. TypeScript compiles down to plain JavaScript, making it compatible with any environment that runs JavaScript."
+    },
+    {
+      "question": "What is Perl?",
+      "answer": "Perl is a high-level, general-purpose programming language known for its flexibility and support for text processing. It is commonly used in system administration, web development, and network programming."
+    },
+    {
+      "question": "What is Scala?",
+      "answer": "Scala is a high-level, functional, and object-oriented programming language that runs on the Java Virtual Machine (JVM). It is designed to be concise and scalable, making it a popular choice for big data applications and functional programming."
+    },
+    {
+      "question": "What is Objective-C?",
+      "answer": "Objective-C is an object-oriented programming language used by Apple for macOS and iOS development before Swift was introduced. It is a superset of C, providing object-oriented features and dynamic runtime capabilities."
+    },
+    {
+      "question": "What is Lua?",
+      "answer": "Lua is a lightweight, high-level scripting language commonly used in game development, embedded systems, and as a scripting language for applications. It is known for its simplicity and flexibility."
+    },
+    {
+      "question": "What is Dart?",
+      "answer": "Dart is a programming language developed by Google, optimized for building web, server, and mobile apps. It is the language behind the Flutter framework, which is used for building cross-platform mobile applications."
+    },
+    {
+      "question": "What is Haskell?",
+      "answer": "Haskell is a purely functional programming language known for its strong static type system and high-level abstractions. It is often used in academia and industries that require high reliability, such as finance and telecommunications."
+    },
+    {
+      "question": "What is Shell scripting?",
+      "answer": "Shell scripting refers to writing scripts using shell commands for Unix-based systems. It allows users to automate repetitive tasks, manage files, execute commands, and configure systems using languages like Bash, Zsh, or the Windows PowerShell."
+    },
+    {
+      "question": "What is Apple?",
+      "answer": "Apple is a technology company known for designing and manufacturing consumer electronics such as the iPhone, iPad, MacBook, and Apple Watch. It is also known for its software ecosystem, including iOS, macOS, and services like iCloud and the App Store."
+    },
+    {
+      "question": "What is Samsung?",
+      "answer": "Samsung is a South Korean multinational conglomerate known for its electronics division, which produces smartphones, tablets, televisions, and home appliances. Its Galaxy smartphones are among the most popular Android devices globally."
+    },
+    {
+      "question": "What is Google?",
+      "answer": "Google is a technology company primarily known for its search engine, but it also produces smartphones (Pixel series), the Android operating system, and services like Google Cloud, Google Maps, and YouTube."
+    },
+    {
+      "question": "What is Xiaomi?",
+      "answer": "Xiaomi is a Chinese electronics company known for its affordable smartphones, including the Mi, Redmi, and Poco series. It also manufactures a variety of consumer electronics, including smart home devices and wearables."
+    },
+    {
+      "question": "What is Huawei?",
+      "answer": "Huawei is a Chinese multinational technology company specializing in telecommunications equipment and consumer electronics. It produces smartphones, tablets, and laptops, with the P and Mate series being popular phone lines."
+    },
+    {
+      "question": "What is OnePlus?",
+      "answer": "OnePlus is a Chinese smartphone manufacturer known for producing high-performance smartphones at competitive prices. Its flagship models, such as the OnePlus series, are known for their clean design and fast performance."
+    },
+    {
+      "question": "What is Oppo?",
+      "answer": "Oppo is a Chinese consumer electronics company that manufactures smartphones, Blu-ray players, and other electronic devices. It is known for its high-quality camera phones, especially in the Reno and Find series."
+    },
+    {
+      "question": "What is Vivo?",
+      "answer": "Vivo is a Chinese technology company that designs and manufactures smartphones. It is known for its focus on innovation in mobile photography, and its flagship X and V series are popular in many countries."
+    },
+    {
+      "question": "What is Sony?",
+      "answer": "Sony is a Japanese multinational conglomerate known for its electronics, gaming, and entertainment divisions. It produces smartphones under the Xperia brand, as well as popular devices like the PlayStation gaming console and Bravia TVs."
+    },
+    {
+      "question": "What is LG?",
+      "answer": "LG is a South Korean multinational company that produces a wide range of electronics, including smartphones, home appliances, and TVs. While LG exited the smartphone market in 2021, its devices, like the G and V series, were known for innovation."
+    },
+    {
+      "question": "What is Lenovo?",
+      "answer": "Lenovo is a Chinese multinational technology company that designs and manufactures laptops, desktops, tablets, and smartphones under the Motorola brand. It is also known for its ThinkPad and Yoga series laptops."
+    },
+    {
+      "question": "What is Motorola?",
+      "answer": "Motorola is an American telecommunications company now owned by Lenovo. It is known for producing smartphones, especially the Moto series, and was one of the pioneers of mobile phone technology."
+    },
+    {
+      "question": "What is Nokia?",
+      "answer": "Nokia is a Finnish multinational company known for its telecommunications infrastructure and mobile phones. In the past, Nokia was one of the largest mobile phone manufacturers in the world, and it now focuses on smartphones running Android."
+    },
+    {
+      "question": "What is Microsoft?",
+      "answer": "Microsoft is a technology company known for its software products, including the Windows operating system, Microsoft Office, and its cloud services (Azure). It also produces hardware, including Surface laptops and tablets."
+    },
+    {
+      "question": "What is Dell?",
+      "answer": "Dell is an American technology company known for designing and selling computers, laptops, servers, and related products. Dell's XPS and Inspiron series are popular laptop lines."
+    },
+    {
+      "question": "What is HP?",
+      "answer": "HP (Hewlett-Packard) is an American multinational company that produces computers, printers, and related accessories. It is known for its Pavilion, Envy, and Spectre series of laptops."
+    },
+    {
+      "question": "What is ASUS?",
+      "answer": "ASUS is a Taiwanese multinational company known for producing a wide range of electronics, including laptops, smartphones, motherboards, and gaming equipment. Its Republic of Gamers (ROG) series is popular in the gaming community."
+    },
+    {
+      "question": "What is Acer?",
+      "answer": "Acer is a Taiwanese multinational company that manufactures laptops, desktops, and peripherals. It is known for its affordable laptops and high-performance gaming laptops under the Predator brand."
+    },
+    {
+      "question": "What is Razer?",
+      "answer": "Razer is an American-Singaporean multinational company that specializes in high-performance gaming hardware, including laptops, peripherals, and accessories. It is well-known for its Razer Blade gaming laptops."
+    },
+    {
+      "question": "What is Intel?",
+      "answer": "Intel is an American multinational corporation known for designing and manufacturing microprocessors used in computers and other devices. Intel is a major supplier of processors for desktops, laptops, and servers."
+    },
+    {
+      "question": "What is AMD?",
+      "answer": "AMD (Advanced Micro Devices) is an American semiconductor company that designs processors, graphics cards, and other computing technologies. AMD’s Ryzen CPUs and Radeon GPUs are popular among gamers and professionals alike."
+    },
+    {
+      "question": "What is Nvidia?",
+      "answer": "Nvidia is an American technology company known for designing graphics processing units (GPUs) for gaming, professional visualization, and artificial intelligence. Nvidia's GeForce line of graphics cards is highly popular among gamers."
+    },
+    {
+      "question": "What is Qualcomm?",
+      "answer": "Qualcomm is an American multinational semiconductor company that designs and manufactures wireless telecommunications products and services. It is best known for its Snapdragon mobile processors used in many smartphones."
+    },
+    {
+      "question": "What is BlackBerry?",
+      "answer": "BlackBerry is a Canadian company that was once a leading smartphone manufacturer, known for its physical keyboards and secure email services. It has since shifted its focus to enterprise software and cybersecurity."
+    },
+    {
+      "question": "What is TCL?",
+      "answer": "TCL is a Chinese multinational electronics company that manufactures consumer products such as televisions, smartphones, and home appliances. It also produces smartphones under its own brand and others like Alcatel."
+    },
+    {
+      "question": "What is Realme?",
+      "answer": "Realme is a Chinese smartphone manufacturer known for producing budget and mid-range smartphones with powerful specifications. It is a sub-brand of Oppo and is popular in markets like India and Southeast Asia."
+    },
+    {
+      "question": "What is ZTE?",
+      "answer": "ZTE is a Chinese multinational telecommunications equipment and systems company. It also produces smartphones and tablets, primarily for the Chinese market, but with growing international presence."
+    },
+    {
+      "question": "What is Honor?",
+      "answer": "Honor is a Chinese smartphone brand that was previously a sub-brand of Huawei. It now operates independently and focuses on delivering high-quality smartphones at competitive prices."
+    },
+    {
+      "question": "What is Alcatel?",
+      "answer": "Alcatel is a French brand that produces smartphones, tablets, and other telecommunications devices. It is now owned by the Chinese company TCL and focuses on producing budget-friendly mobile devices."
+    },
+    {
+      "question": "What is the United States?",
+      "answer": "The United States of America (USA) is a country located in North America. It is a federal republic consisting of 50 states. The capital is Washington, D.C., and the largest city is New York City. It is known for its global influence in culture, technology, and politics."
+    },
+    {
+      "question": "What is China?",
+      "answer": "China is a country in East Asia and the world's most populous nation, with over 1.4 billion people. It is governed by the Communist Party of China, with Beijing as its capital. China is a global powerhouse in manufacturing, technology, and trade."
+    },
+    {
+      "question": "What is India?",
+      "answer": "India is a country in South Asia and the second-most populous country in the world. Known for its rich cultural heritage and diversity, its capital is New Delhi, and the largest city is Mumbai. India is also a major player in the global economy and technology sector."
+    },
+    {
+      "question": "What is the United Kingdom?",
+      "answer": "The United Kingdom (UK) is a country located in Europe, consisting of four nations: England, Scotland, Wales, and Northern Ireland. London is the capital. The UK has a constitutional monarchy and is known for its historical impact on global politics, language, and culture."
+    },
+    {
+      "question": "What is Germany?",
+      "answer": "Germany is a country located in Central Europe and is the largest economy in Europe. Its capital and largest city is Berlin. Germany is known for its automotive industry, engineering, and contributions to philosophy, science, and art."
+    },
+    {
+      "question": "What is Japan?",
+      "answer": "Japan is an island nation located in East Asia, known for its technological advancements, rich cultural history, and unique traditions. The capital city is Tokyo, which is also one of the most populous cities in the world."
+    },
+    {
+      "question": "What is Brazil?",
+      "answer": "Brazil is the largest country in South America, known for its diverse ecosystems, including the Amazon Rainforest. The capital is Brasília, and the largest city is São Paulo. Brazil is famous for its Carnival festival, football, and vibrant culture."
+    },
+    {
+      "question": "What is Russia?",
+      "answer": "Russia is the largest country in the world by land area, spanning Eastern Europe and Northern Asia. Its capital is Moscow, and it is known for its vast natural resources, space exploration, and rich cultural history in literature, ballet, and art."
+    },
+    {
+      "question": "What is Australia?",
+      "answer": "Australia is a country and continent located in the Southern Hemisphere, known for its unique wildlife, natural wonders, and beaches. Its capital is Canberra, and the largest city is Sydney. Australia is a developed country with a strong economy and high standard of living."
+    },
+    {
+      "question": "What is France?",
+      "answer": "France is a country in Western Europe known for its history, culture, and cuisine. The capital is Paris, which is also the largest city. France is famous for landmarks like the Eiffel Tower and is a major global player in fashion, art, and politics."
+    },
+    {
+      "question": "What is Canada?",
+      "answer": "Canada is a country in North America, known for its vast landscapes, multicultural cities, and high quality of life. Its capital is Ottawa, and the largest city is Toronto. Canada is the second-largest country in the world by land area."
+    },
+    {
+      "question": "What is Italy?",
+      "answer": "Italy is a European country known for its art, architecture, and food. Its capital is Rome, which is home to historic landmarks like the Colosseum and the Vatican. Italy is also known for its contributions to fashion, design, and automotive industries."
+    },
+    {
+      "question": "What is South Africa?",
+      "answer": "South Africa is a country located at the southern tip of Africa. It is known for its diversity in culture and landscapes, with three capital cities: Pretoria (administrative), Bloemfontein (judicial), and Cape Town (legislative). Johannesburg is the largest city."
+    },
+    {
+      "question": "What is Saudi Arabia?",
+      "answer": "Saudi Arabia is a country in the Middle East, known for its vast oil reserves and as the birthplace of Islam. The capital is Riyadh, and the cities of Mecca and Medina are important religious centers for Muslims worldwide."
+    },
+    {
+      "question": "What is Argentina?",
+      "answer": "Argentina is a country located in South America, known for its tango music, diverse landscapes, and strong cultural identity. The capital is Buenos Aires, and Argentina is also famous for its football and cuisine, particularly beef and wine."
+    },
+    {
+      "question": "What is Egypt?",
+      "answer": "Egypt is a country located in North Africa and the Middle East, famous for its ancient civilization, pyramids, and the Nile River. The capital is Cairo. Egypt has a rich cultural heritage and is considered one of the world’s oldest civilizations."
+    },
+    {
+      "question": "What is Mexico?",
+      "answer": "Mexico is a country in North America known for its vibrant culture, cuisine, and history. The capital is Mexico City, one of the largest cities in the world. Mexico is also famous for its ancient civilizations, including the Maya and Aztec."
+    },
+    {
+      "question": "What is South Korea?",
+      "answer": "South Korea is a country in East Asia, known for its technological advancements, pop culture (K-pop), and strong economy. The capital is Seoul. South Korea is a global leader in electronics, particularly in companies like Samsung and LG."
+    },
+    {
+      "question": "What is Indonesia?",
+      "answer": "Indonesia is a Southeast Asian country made up of over 17,000 islands, with Jakarta as its capital. It is the world's largest Muslim-majority nation and is known for its diverse cultures, languages, and natural beauty, including beaches and volcanoes."
+    },
+    {
+      "question": "What is Spain?",
+      "answer": "Spain is a country in southwestern Europe, known for its rich history, art, and architecture. The capital is Madrid. Spain is famous for its festivals, food (like paella), and cultural contributions to literature, painting, and sports (particularly football)."
+    },
+    {
+      "question": "What is Turkey?",
+      "answer": "Turkey is a country that straddles both Europe and Asia, known for its cultural heritage, historic sites, and as a crossroads of civilizations. The capital is Ankara, and the largest city is Istanbul. Turkey is also famous for its cuisine and tourism."
+    },
+    {
+      "question": "What is Nigeria?",
+      "answer": "Nigeria is a country in West Africa, known for its large population, cultural diversity, and economy, which is based on oil production. The capital is Abuja, and the largest city is Lagos. Nigeria has a booming entertainment industry, particularly in music and film (Nollywood)."
+    },
+    {
+      "question": "What is Pakistan?",
+      "answer": "Pakistan is a South Asian country, with Islamabad as its capital and Karachi as its largest city. Pakistan is known for its diverse cultures, historical landmarks, and the Indus Valley Civilization. It is an important player in regional politics."
+    },
+    {
+      "question": "What is Bangladesh?",
+      "answer": "Bangladesh is a country in South Asia, with Dhaka as its capital. It is known for its rich history, textiles (especially garments), and rivers, as well as being one of the most densely populated countries in the world."
+    },
+    {
+      "question": "What is Israel?",
+      "answer": "Israel is a Middle Eastern country located along the Mediterranean Sea. Jerusalem is its capital, and the country is known for its ancient history and as a major religious center for Judaism, Christianity, and Islam."
+    },
+    {
+      "question": "What is Switzerland?",
+      "answer": "Switzerland is a country in Central Europe known for its neutrality, financial services, and beautiful landscapes, including the Alps. The capital is Bern, and it is famous for its chocolates, watches, and high quality of life."
+    },
+    {
+      "question": "What is the Philippines?",
+      "answer": "The Philippines is an archipelago in Southeast Asia, known for its beaches, biodiversity, and vibrant culture. The capital is Manila, and it has over 7,000 islands, making it a popular tourist destination."
+    },
+    {
+      "question": "What is Sweden?",
+      "answer": "Sweden is a Nordic country in Northern Europe, known for its welfare state, high standard of living, and contributions to design and technology. The capital is Stockholm."
+    },
+    {
+      "question": "What is New York City?",
+      "answer": "New York City (NYC) is the largest city in the United States, located in the state of New York. Known for its iconic landmarks like the Statue of Liberty, Times Square, and Central Park, it is a global hub for finance, media, and culture."
+    },
+    {
+      "question": "What is Tokyo?",
+      "answer": "Tokyo is the capital of Japan and one of the largest cities in the world. It is known for its modern architecture, technology, shopping districts, and cultural landmarks like the Imperial Palace and Tokyo Tower."
+    },
+    {
+      "question": "What is London?",
+      "answer": "London is the capital of the United Kingdom and a major global city. It is known for its historical sites such as the Tower of London, Big Ben, Buckingham Palace, and the British Museum. London is also a financial hub."
+    },
+    {
+      "question": "What is Paris?",
+      "answer": "Paris is the capital city of France, known for its art, fashion, gastronomy, and culture. Famous landmarks include the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Paris is also a major European financial center."
+    },
+    {
+      "question": "What is Beijing?",
+      "answer": "Beijing is the capital of China and a major political, cultural, and educational center. It is home to many historical sites, including the Forbidden City, Tiananmen Square, and the Great Wall of China nearby."
+    },
+    {
+      "question": "What is Mumbai?",
+      "answer": "Mumbai is the largest city in India and the financial capital of the country. It is known for its Bollywood film industry, vibrant culture, and landmarks such as the Gateway of India and Marine Drive."
+    },
+    {
+      "question": "What is Los Angeles?",
+      "answer": "Los Angeles (LA) is a major city in California, USA, known for its entertainment industry, particularly Hollywood. It is also famous for its beaches, the Getty Center, and landmarks like the Hollywood Sign and Griffith Observatory."
+    },
+    {
+      "question": "What is Berlin?",
+      "answer": "Berlin is the capital of Germany and a city known for its art, culture, and history, especially its role in World War II and the Cold War. Major attractions include the Brandenburg Gate, Berlin Wall, and Museum Island."
+    },
+    {
+      "question": "What is Dubai?",
+      "answer": "Dubai is a city in the United Arab Emirates (UAE), known for its modern architecture, luxury shopping, and vibrant nightlife. Notable landmarks include the Burj Khalifa, the tallest building in the world, and the Palm Jumeirah."
+    },
+    {
+      "question": "What is Moscow?",
+      "answer": "Moscow is the capital of Russia and the country's largest city. It is known for its historical landmarks such as the Kremlin, Red Square, and St. Basil's Cathedral. Moscow is also the political and economic center of Russia."
+    },
+    {
+      "question": "What is Sydney?",
+      "answer": "Sydney is the largest city in Australia, known for its Opera House, Sydney Harbour Bridge, and beautiful beaches such as Bondi Beach. It is a major cultural and economic center in the region."
+    },
+    {
+      "question": "What is São Paulo?",
+      "answer": "São Paulo is the largest city in Brazil and the Southern Hemisphere. It is a major financial and cultural hub, known for its diverse population, vibrant nightlife, and landmarks like Ibirapuera Park and Paulista Avenue."
+    },
+    {
+      "question": "What is Mexico City?",
+      "answer": "Mexico City is the capital of Mexico and one of the largest cities in the world. It is known for its historical sites such as the Zócalo, Templo Mayor, and Chapultepec Park, as well as its cultural scene and vibrant neighborhoods."
+    },
+    {
+      "question": "What is Seoul?",
+      "answer": "Seoul is the capital of South Korea and a leading global city. It is known for its modern skyscrapers, high-tech subways, palaces such as Gyeongbokgung, and cultural landmarks like N Seoul Tower and Bukchon Hanok Village."
+    },
+    {
+      "question": "What is Cairo?",
+      "answer": "Cairo is the capital of Egypt and the largest city in the Arab world. It is famous for its proximity to the Giza Pyramids, the Sphinx, and the Nile River. Cairo is a center for culture, politics, and education in the Middle East."
+    },
+    {
+      "question": "What is Buenos Aires?",
+      "answer": "Buenos Aires is the capital of Argentina, known for its European-style architecture, tango music, and vibrant arts scene. Major attractions include the Casa Rosada, Recoleta Cemetery, and Teatro Colón."
+    },
+    {
+      "question": "What is Istanbul?",
+      "answer": "Istanbul is the largest city in Turkey and a cultural and economic hub, straddling both Europe and Asia. It is known for its historic sites such as the Hagia Sophia, Blue Mosque, and the Grand Bazaar."
+    },
+    {
+      "question": "What is Johannesburg?",
+      "answer": "Johannesburg is the largest city in South Africa and a major financial center. It is known for its role in South Africa’s history, especially in relation to apartheid, and for attractions such as the Apartheid Museum and Constitution Hill."
+    },
+    {
+      "question": "What is Bangkok?",
+      "answer": "Bangkok is the capital of Thailand, known for its vibrant street life, cultural landmarks such as the Grand Palace and Wat Arun, and as a major tourist destination with bustling markets and a lively nightlife scene."
+    },
+    {
+      "question": "What is Toronto?",
+      "answer": "Toronto is the largest city in Canada and a major multicultural hub. It is known for the CN Tower, Royal Ontario Museum, and its diverse neighborhoods, reflecting the city's cosmopolitan population."
+    },
+    {
+      "question": "What is Singapore?",
+      "answer": "Singapore is a city-state and island nation in Southeast Asia. Known for its cleanliness, modern architecture, and thriving economy, key landmarks include Marina Bay Sands, Gardens by the Bay, and Orchard Road."
+    },
+    {
+      "question": "What is Rome?",
+      "answer": "Rome is the capital of Italy, known for its ancient history and landmarks such as the Colosseum, Vatican City, and the Pantheon. It is a cultural and religious center, as well as a major tourist destination."
+    },
+    {
+      "question": "What is Lagos?",
+      "answer": "Lagos is the largest city in Nigeria and one of the fastest-growing cities in the world. It is a major financial center in Africa, known for its bustling markets, music scene, and the nearby Lekki Conservation Centre."
+    },
+    {
+      "question": "What is Jakarta?",
+      "answer": "Jakarta is the capital of Indonesia and the largest city in Southeast Asia. It is a bustling metropolis known for its shopping, business districts, and historical sites like the National Monument and Istiqlal Mosque."
+    },
+    {
+      "question": "What is Madrid?",
+      "answer": "Madrid is the capital of Spain and a major European cultural and financial center. Known for landmarks such as the Royal Palace, Prado Museum, and Puerta del Sol, Madrid is a hub for art, culture, and tourism."
+    },
+    {
+      "question": "What is Kuala Lumpur?",
+      "answer": "Kuala Lumpur is the capital of Malaysia, known for its modern skyline dominated by the Petronas Twin Towers. It is a multicultural city, offering a mix of Malay, Chinese, and Indian influences in its food and culture."
+    },
+    {
+      "question": "What is Nairobi?",
+      "answer": "Nairobi is the capital of Kenya and a major city in East Africa. It is known for its wildlife (Nairobi National Park), as well as being a political and financial hub in the region."
+    },
+    {
+      "question": "What is Vienna?",
+      "answer": "Vienna is the capital of Austria, known for its artistic and intellectual history shaped by residents like Mozart, Beethoven, and Sigmund Freud. It is famous for its palaces, museums, and vibrant cultural scene."
+    },
+    {
+      "question": "What is Zurich?",
+      "answer": "Zurich is the largest city in Switzerland and a global financial center. Known for its banking institutions, Zurich is also recognized for its high quality of life, historic old town, and proximity to the Swiss Alps."
+    },
+    {
+      "question": "What is the fastest car in the world?",
+      "answer": "The Bugatti Chiron Super Sport is one of the fastest cars, with a top speed of 304 mph."
+    },
+    {
+      "question": "Which car is known for its luxurious features?",
+      "answer": "The Rolls-Royce Phantom is known for its unmatched luxury, featuring handcrafted interiors and advanced technology."
+    },
+    {
+      "question": "What is a high-performance electric car?",
+      "answer": "The Tesla Model S Plaid is a high-performance electric car, with a 0-60 mph time of under 2 seconds."
+    },
+    {
+      "question": "Which car is considered a luxury SUV?",
+      "answer": "The Bentley Bentayga is a luxury SUV known for its exquisite interiors and powerful performance."
+    },
+    {
+      "question": "What is a sleek-looking sports car?",
+      "answer": "The Lamborghini Aventador is famous for its aggressive styling and sharp lines, making it one of the best-looking sports cars."
+    },
+    {
+      "question": "Which car is known for its combination of speed and comfort?",
+      "answer": "The Mercedes-AMG GT combines speed and luxury, providing both exhilarating performance and a comfortable driving experience."
+    },
+    {
+      "question": "What is the fastest electric car?",
+      "answer": "The Rimac Nevera is the fastest electric car, with a top speed of 258 mph."
+    },
+    {
+      "question": "Which luxury sedan offers a balance of performance and elegance?",
+      "answer": "The BMW 7 Series offers a perfect balance of performance, luxury, and advanced features."
+    },
+    {
+      "question": "What is a high-end luxury car for VIPs?",
+      "answer": "The Maybach S-Class is often considered the ultimate VIP car, offering exceptional comfort and advanced features for luxury travel."
+    },
+    {
+      "question": "What is a stylish luxury car?",
+      "answer": "The Aston Martin DB11 is known for its elegant design, combining classic luxury with modern styling."
+    },
+    {
+      "question": "Which hypercar offers both speed and aesthetics?",
+      "answer": "The McLaren Speedtail is a hypercar that combines extreme speed with futuristic and sleek aesthetics."
+    },
+    {
+      "question": "What is a popular luxury compact SUV?",
+      "answer": "The Range Rover Evoque is a popular luxury compact SUV, known for its stylish design and premium features."
+    },
+    {
+      "question": "What is the most powerful rocket ever built?",
+      "answer": "The SpaceX Starship is currently the most powerful rocket ever built, designed to carry humans to Mars and beyond."
+    },
+    {
+      "question": "Which rocket was used to take humans to the moon?",
+      "answer": "The Saturn V rocket, developed by NASA, was used to send astronauts to the moon during the Apollo missions."
+    },
+    {
+      "question": "What is the purpose of the Falcon 9 rocket?",
+      "answer": "SpaceX's Falcon 9 rocket is designed to deliver payloads into orbit, resupply the International Space Station, and launch satellites."
+    },
+    {
+      "question": "What is the fastest rocket ever launched?",
+      "answer": "NASA's Parker Solar Probe, launched by a Delta IV Heavy rocket, is the fastest spacecraft, traveling at speeds over 430,000 mph as it approaches the sun."
+    },
+    {
+      "question": "What is a reusable rocket?",
+      "answer": "A reusable rocket is designed to be launched, recovered, and reused for multiple missions. SpaceX's Falcon 9 is a prime example."
+    },
+    {
+      "question": "Which rocket is designed for Mars missions?",
+      "answer": "The SpaceX Starship is designed for long-duration missions to Mars, with the goal of colonizing the planet."
+    },
+    {
+      "question": "What is the mission of NASA’s SLS rocket?",
+      "answer": "NASA’s Space Launch System (SLS) is designed to carry astronauts to the Moon and Mars as part of the Artemis program."
+    },
+    {
+      "question": "What was the first rocket to reach space?",
+      "answer": "The V-2 rocket, developed by Germany during World War II, was the first rocket to reach space in 1944."
+    },
+    {
+      "question": "Which rocket launched the Hubble Space Telescope?",
+      "answer": "NASA's Space Shuttle Discovery launched the Hubble Space Telescope into orbit in 1990."
+    },
+    {
+      "question": "Which rocket is used by the European Space Agency (ESA)?",
+      "answer": "The Ariane 5 rocket, developed by the European Space Agency, is used for launching heavy payloads into orbit."
+    },
+    {
+      "question": "What is the significance of the Blue Origin New Shepard rocket?",
+      "answer": "Blue Origin's New Shepard is a suborbital rocket designed for space tourism and scientific research, featuring a fully reusable design."
+    },
+    {
+      "question": "What is the function of the Atlas V rocket?",
+      "answer": "The Atlas V rocket, developed by United Launch Alliance, is used for launching satellites and space exploration missions, including Mars rovers."
+    },
+    {
+      "question": "What was the first private rocket to reach orbit?",
+      "answer": "SpaceX's Falcon 1 became the first privately developed rocket to reach orbit in 2008."
+    },
+    {
+      "question": "Which rocket launched the James Webb Space Telescope?",
+      "answer": "The James Webb Space Telescope was launched aboard an Ariane 5 rocket in December 2021."
+    },
+    {
+      "question": "Which rocket is known for its heavy-lift capabilities?",
+      "answer": "The Delta IV Heavy rocket, developed by ULA, is known for its heavy-lift capabilities and has been used for high-priority space missions."
+    },
+    {
+      "question": "What is a suborbital rocket?",
+      "answer": "A suborbital rocket is one that reaches space but does not achieve the velocity needed to orbit the Earth, such as Blue Origin's New Shepard."
     }
   ]
 }
