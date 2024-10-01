@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "hello",
+      "answer": "Hi!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am very well."
+    },
+    {
+      "question": "Who are you?",
+      "answer": "I am an AI Chatbot."
+    },
+    {
+      "question": "",
+      "answer": "How can I help you?"
+    },
+    {
+      "question": "Who is Arpon",
+      "answer": "Arpon Biswas is my creator."
+    },
+    {
+      "question": "...",
+      "answer": "..."
+    },
+    {
+      "question": ".",
+      "answer": "."
+    },
+    {
+      "question": "hi there",
+      "answer": "hi"
+    },
+    {
+      "question": "Do you know who I am?",
+      "answer": "You are my BOSS>>>"
+    },
+    {
+      "question": "who i am",
+      "answer": "dyou now who i am"
+    }
+  ]
+}
